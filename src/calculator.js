@@ -20,7 +20,7 @@ function divide(a, b) {
 function square(a) {
     return a * a;
 }
-
+console.log("testing branch protection")
 module.exports = {
     add,
     subtract,
